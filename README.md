@@ -40,7 +40,7 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
    ```bash
    git clone https://github.com/yourusername/astar-pathfinding-visualization.git
 
-	2.	Navigate to the project folder:
+2. Navigate to the project folder:
 
 cd astar-pathfinding-visualization
 
@@ -87,7 +87,3 @@ To contribute:
 License
 
 Distributed under the MIT License. See LICENSE for more information.
-
-Happy Coding!
-
-This README provides all the necessary information for your GitHub repository, including installation, usage, project structure, and details about the A* algorithm. If you have any additional details, you can expand on sections like *How It Works* or *Contributing*.
