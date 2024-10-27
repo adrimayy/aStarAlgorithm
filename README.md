@@ -56,11 +56,11 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 
 ### Project Structure
        ```
- astar-pathfinding-visualization/
-	├── index.html        # Main HTML file for the interface
-	├── styles.css        # CSS for styling the visualization
-	├── script.js         # JavaScript file containing the A* algorithm logic
-	└── README.md         # Project README file
+	 	astar-pathfinding-visualization/
+		├── index.html        # Main HTML file for the interface
+		├── styles.css        # CSS for styling the visualization
+		├── script.js         # JavaScript file containing the A* algorithm logic
+		└── README.md         # Project README file
 
 ### How It Works
 
