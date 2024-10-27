@@ -1,11 +1,10 @@
-
 # A* Pathfinding Algorithm Visualization
 
 A web-based visualization of the A* pathfinding algorithm. This project demonstrates how the A* algorithm navigates a grid to find the shortest path from a start to an endpoint while avoiding obstacles. Ideal for educational purposes, this visualization allows users to see the algorithm in action and better understand how pathfinding works.
 
 ## Demo
 
-Check out a live demo here: [Will host to website sometime]
+Check out a live demo here: [Link to live demo if hosted]
 
 ## Features
 
@@ -41,7 +40,7 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
    ```
 2. Navigate to the project folder:
    ```bash
-   cd astar-pathfinding-visualization
+   cd aStarAlgorithm
    ```
 3. Open `index.html` in your preferred web browser to see the visualization in action.
 
@@ -55,7 +54,7 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 ### Project Structure
 
 ```
-astar-pathfinding-visualization/
+aStarAlgorithm/
 ├── index.html        # Main HTML file for the interface
 ├── styles.css        # CSS for styling the visualization
 ├── script.js         # JavaScript file containing the A* algorithm logic
