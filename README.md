@@ -55,8 +55,8 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 	4.	See the explanations for each cell, including calculations for costs and heuristic values.
 
 ### Project Structure
-	```plaintext
-	astar-pathfinding-visualization/
+
+ astar-pathfinding-visualization/
 	├── index.html        # Main HTML file for the interface
 	├── styles.css        # CSS for styling the visualization
 	├── script.js         # JavaScript file containing the A* algorithm logic
