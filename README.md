@@ -5,7 +5,7 @@ A web-based visualization of the A* pathfinding algorithm. This project demonstr
 
 ## Demo
 
-Check out a live demo here: [Link to live demo if hosted]
+Check out a live demo here: [Will host to website sometime]
 
 ## Features
 
