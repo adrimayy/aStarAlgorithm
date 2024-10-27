@@ -41,11 +41,11 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
    git clone https://github.com/yourusername/astar-pathfinding-visualization.git
 
 2. Navigate to the project folder:
-```bash
-cd astar-pathfinding-visualization
+   ```bash
+   cd astar-pathfinding-visualization
 
 
-	3.	Open index.html in your preferred web browser to see the visualization in action.
+3. Open index.html in your preferred web browser to see the visualization in action.
 
 Usage
 
