@@ -22,7 +22,7 @@ Check out a live demo here: [Will link to a live demo eventually]
 
 ## Screenshots
 
-![Pathfinding in Action](pathfinding_screenshot.png)
+![Pathfinding in Action](pathfinding.png)
 
 ## Getting Started
 
