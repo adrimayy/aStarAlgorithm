@@ -47,14 +47,14 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 
 3. Open index.html in your preferred web browser to see the visualization in action.
 
-Usage
+### Usage
 
 	1.	Launch the app by opening index.html.
 	2.	Observe the grid with random obstacles generated at each refresh.
 	3.	Watch the algorithm find the shortest path from the red start point to the green end point.
 	4.	See the explanations for each cell, including calculations for costs and heuristic values.
 
-Project Structure
+### Project Structure
 
 astar-pathfinding-visualization/
 ├── index.html        # Main HTML file for the interface
@@ -62,7 +62,7 @@ astar-pathfinding-visualization/
 ├── script.js         # JavaScript file containing the A* algorithm logic
 └── README.md         # Project README file
 
-How It Works
+### How It Works
 
 The A* algorithm combines concepts from Dijkstra’s Algorithm and Greedy Best-First Search. It uses both:
 
