@@ -38,7 +38,7 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/astar-pathfinding-visualization.git
+   git clone https://github.com/adrimayy/aStarAlgorithm.git
 
 2. Navigate to the project folder:
    ```bash
